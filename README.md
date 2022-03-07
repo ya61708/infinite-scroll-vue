@@ -3,4 +3,4 @@
 ### Compiles and hot-reloads for development
 npm run serve
 
-# GitHub Page : https://github.com/ya61708/infinite-scroll-vue
+# GitHub Page : https://github.com/ya61708/infinite-scroll-vue/tree/master
